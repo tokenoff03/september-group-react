@@ -41,7 +41,7 @@ let Header = () => {
                 to="/main"
                 className={(navData) => (navData.isActive ? "active" : "")}
               >
-                Главнаяsadasd
+                Главная
               </NavLink>
             </li>
             <li>
